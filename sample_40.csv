@@ -1,0 +1,1313 @@
+vaers_id,symptom_text,symptom_list,llm_result,llm_result_formatted,final_corrected_version,final_result,no_temporal_info
+1996697,"Patient experienced a syncopal episode. Passed-out and hit his head on the floor. He has a hematoma on his head due to the fall. Patient sweating and stated he felt very tired. 911 called and was taken to the emergency room by ambulance. Several tests were completed at the ER. Patient was sent home with instructions for rest and fluids. He has been in bed all day since returning home from ER. Patient very tired, difficulty standing-up, walking and not eating much.","['Bundle branch block right', 'Decreased appetite', 'Dysstasia', 'Electrocardiogram abnormal', 'Fall', 'Fatigue', 'Gait disturbance', 'Haematoma', 'Head injury', 'Hyperhidrosis', 'Loss of consciousness', 'Syncope']","[
+  {
+    ""Syncope"": [""syncopal episode""],
+    ""Loss of consciousness"": [""passed-out""]
+  },
+  {
+    ""Fall"": [""hit his head on the floor""]
+  },
+  {
+    ""Head injury"": [""hit his head on the floor""]
+  },
+  {
+    ""Haematoma"": [""hematoma on his head""]
+  },
+  {
+    ""Hyperhidrosis"": [""sweating""],
+    ""Fatigue"": [""felt very tired""]
+  },
+  {
+    ""Dysstasia"": [""difficulty standing-up""],
+    ""Gait disturbance"": [""difficulty walking""],
+    ""Decreased appetite"": [""not eating much""]
+  },
+  {
+    ""Electrocardiogram abnormal"": [""none""],
+    ""Bundle branch block right"": [""none""]
+  }
+]","[
+  {
+    ""Syncope"": [
+      ""syncopal episode""
+    ],
+    ""Loss of consciousness"": [
+      ""passed-out""
+    ]
+  },
+  {
+    ""Fall"": [
+      ""hit his head on the floor""
+    ]
+  },
+  {
+    ""Head injury"": [
+      ""hit his head on the floor""
+    ]
+  },
+  {
+    ""Haematoma"": [
+      ""hematoma on his head""
+    ]
+  },
+  {
+    ""Hyperhidrosis"": [
+      ""sweating""
+    ],
+    ""Fatigue"": [
+      ""felt very tired""
+    ]
+  },
+  {
+    ""Dysstasia"": [
+      ""difficulty standing-up""
+    ],
+    ""Gait disturbance"": [
+      ""difficulty walking""
+    ],
+    ""Decreased appetite"": [
+      ""not eating much""
+    ]
+  },
+  {
+    ""Bundle branch block right"": [
+      ""none""
+    ],
+    ""Electrocardiogram abnormal"": [
+      ""none""
+    ]
+  }
+]",,1,False
+1942805,"around 2130 the night of the vaccine I started to have muscle spasms in my back, glute (right side), chest muscle and arms.  I felt ill when I went to bed.  I woke up to my Apple watch having ""high heart rate"" alerts (3 alerts) saying my sleeping heart rate was from 140-155 bpm (normal is 50-57).  When I woke up the morning after my vaccine I was sore and in pain in every muscle in my body.   It hurt to speak because my jaw was so sore all the way to the insides of my feet and everything in between was in pain (6/10) and sore.  I took 800mg Ibuprofen which brought my pain down to a 2/10 and I stayed in bed all day, into the night and part of the day after.    Since then I have been having PVC's (caught on ECG and my apple watch) and palpitations in my chest where my heart will race and I have a stabbing pain in the center of my chest.  My fingers and hands have been cold (and finger tips are turning purple some days) and I am finding it difficult to get warm which has never been a problem for me.  I notice a drastic brain fog, which has partially dissipated over the past few months.  I have a few swollen lymph nodes in my neck as well which are new to me.    As someone who is fit I am unable to run more then 100 yards without my pulse going into the 150's during moderate intensity.  This is also VERY abnormal.","['C-reactive protein increased', 'Chest pain', 'Electrocardiogram abnormal', 'Exercise tolerance decreased', 'Feeling abnormal', 'Heart rate increased', 'Lymphadenopathy', 'Malaise', 'Mean platelet volume decreased', 'Muscle spasms', 'Myalgia', 'Pain', 'Pain in jaw', 'Palpitations', 'Peripheral coldness', 'Skin discolouration', 'Speech disorder', 'Ventricular extrasystoles']","[
+  {
+    ""Muscle spasms"": [""muscle spasms in my back, glute (right side), chest muscle and arms""],
+    ""Malaise"": [""felt ill when I went to bed""]
+  },
+  {
+    ""Heart rate increased"": [""sleeping heart rate was from 140-155 bpm""]
+  },
+  {
+    ""Myalgia"": [""pain in every muscle in my body""],
+    ""Pain"": [""pain in every muscle in my body""],
+    ""Pain in jaw"": [""jaw was so sore""]
+  },
+  {
+    ""Ventricular extrasystoles"": [""PVCs""],
+    ""Palpitations"": [""palpitations in my chest""],
+    ""Electrocardiogram abnormal"": [""caught on ECG""],
+    ""Chest pain"": [""stabbing pain in the center of my chest""]
+  },
+  {
+    ""Peripheral coldness"": [""fingers and hands have been cold""],
+    ""Skin discolouration"": [""finger tips are turning purple""]
+  },
+  {
+    ""Feeling abnormal"": [""drastic brain fog""]
+  },
+  {
+    ""Lymphadenopathy"": [""swollen lymph nodes in my neck""]
+  },
+  {
+    ""Exercise tolerance decreased"": [""unable to run more then 100 yards without my pulse going into the 150's""]
+  },
+  {
+    ""C-reactive protein increased"": [""none""],
+    ""Mean platelet volume decreased"": [""none""],
+    ""Speech disorder"": [""none""]
+  }
+]","[
+  {
+    ""Muscle spasms"": [
+      ""muscle spasms in my back, glute (right side), chest muscle and arms""
+    ],
+    ""Malaise"": [
+      ""felt ill when I went to bed""
+    ]
+  },
+  {
+    ""Heart rate increased"": [
+      ""sleeping heart rate was from 140-155 bpm""
+    ]
+  },
+  {
+    ""Myalgia"": [
+      ""pain in every muscle in my body""
+    ],
+    ""Pain"": [
+      ""pain in every muscle in my body""
+    ],
+    ""Pain in jaw"": [
+      ""jaw was so sore""
+    ]
+  },
+  {
+    ""Ventricular extrasystoles"": [
+      ""PVCs""
+    ],
+    ""Palpitations"": [
+      ""palpitations in my chest""
+    ],
+    ""Electrocardiogram abnormal"": [
+      ""caught on ECG""
+    ],
+    ""Chest pain"": [
+      ""stabbing pain in the center of my chest""
+    ]
+  },
+  {
+    ""Peripheral coldness"": [
+      ""fingers and hands have been cold""
+    ],
+    ""Skin discolouration"": [
+      ""finger tips are turning purple""
+    ]
+  },
+  {
+    ""Feeling abnormal"": [
+      ""drastic brain fog""
+    ]
+  },
+  {
+    ""Lymphadenopathy"": [
+      ""swollen lymph nodes in my neck""
+    ]
+  },
+  {
+    ""Exercise tolerance decreased"": [
+      ""unable to run more then 100 yards without my pulse going into the 150's""
+    ]
+  },
+  {
+    ""Mean platelet volume decreased"": [
+      ""none""
+    ],
+    ""Speech disorder"": [
+      ""none""
+    ],
+    ""C-reactive protein increased"": [
+      ""none""
+    ]
+  }
+]",,1,False
+1694101,"Monday, 9/6: symptom onset. Persistent headache, fatigue, low-grade fever (1.5 degrees higher than normal). Tues: Persistent headache, fatigue, low-grade fever (1.5 degrees higher than normal). Sinus pressure affecting ears (new). Wed: Persistent headache, fatigue. Diarrhea (new).  Thurs: Persistent headache, fatigue.  Loss of appetite, taste and smell (new). Fri-Sun: Persistent headache, fatigue, loss of appetite, taste and smell. Monday, 9/13: Loss of taste and smell.","['Ageusia', 'Anosmia', 'Decreased appetite', 'Diarrhoea', 'Fatigue', 'Headache', 'Paranasal sinus discomfort', 'Pyrexia']","[
+  {
+    ""Headache"": [""Persistent headache""],
+    ""Fatigue"": [""fatigue""],
+    ""Pyrexia"": [""low-grade fever (1.5 degrees higher than normal)""]
+  },
+  {
+    ""Paranasal sinus discomfort"": [""Sinus pressure affecting ears""]
+  },
+  {
+    ""Diarrhoea"": [""Diarrhea""]
+  },
+  {
+    ""Decreased appetite"": [""Loss of appetite""],
+    ""Ageusia"": [""Loss of taste and smell (new)""],
+    ""Anosmia"": [""Loss of taste and smell (new)""]
+  }
+]","[
+  {
+    ""Headache"": [
+      ""Persistent headache""
+    ],
+    ""Fatigue"": [
+      ""fatigue""
+    ],
+    ""Pyrexia"": [
+      ""low-grade fever (1.5 degrees higher than normal)""
+    ]
+  },
+  {
+    ""Paranasal sinus discomfort"": [
+      ""Sinus pressure affecting ears""
+    ]
+  },
+  {
+    ""Diarrhoea"": [
+      ""Diarrhea""
+    ]
+  },
+  {
+    ""Decreased appetite"": [
+      ""Loss of appetite""
+    ],
+    ""Ageusia"": [
+      ""Loss of taste and smell (new)""
+    ],
+    ""Anosmia"": [
+      ""Loss of taste and smell (new)""
+    ]
+  }
+]",,1,False
+1209117,"Developed a fever 6 hours after vaccine administered, had chills, muscle aches, and severe headache, around 10 hours after vaccine, fever peaked at 101.4 then subsided, about 12 hours after shot woke up in night with cramping in my feet, severe headache continued 18 hrs after vaccine and took two Tylenol, headache subsided and went away, fever was reduced to below 99 degrees about 16 hrs after vaccine.  After 24hrs from vaccine all symptoms were gone and has not return to date.","['Chills', 'Headache', 'Muscle spasms', 'Myalgia', 'Pyrexia']","[
+  {
+    ""Pyrexia"": [""fever""],
+    ""Chills"": [""chills""],
+    ""Myalgia"": [""muscle aches""],
+    ""Headache"": [""severe headache""]
+  },
+  {
+    ""Muscle spasms"": [""cramping in my feet""]
+  }
+]","[
+  {
+    ""Pyrexia"": [
+      ""fever""
+    ],
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Myalgia"": [
+      ""muscle aches""
+    ],
+    ""Headache"": [
+      ""severe headache""
+    ]
+  },
+  {
+    ""Muscle spasms"": [
+      ""cramping in my feet""
+    ]
+  }
+]",,1,False
+2085196,"Date of Admission  01/04/2022   Date of Discharge  01/06/2022   Reason for Hospitalization   Pt mother reports ""my daughter needs seen in ER for labs and COVID testing"". pt reports nausea and vomiitng but no fevers.  Hospital Course   Patient is a 18-year-old female with Hb SS s/p bone marrow transplant in august 2020 who presented to the ED on 1/4 for concerns of upper respiratory symptoms, backslash leg pain and hypoxia requiring oxygen support and got admitted to the inpatient peds heme-onc team with Covid pneumonia.  Initial labs were done in the ER patient was admitted on maintenance IV fluids for hydration and home medications.  On admission infectious disease was consulted and recommended starting remdesivir 200 mg on day 1 and 100 mg starting day 2.  Patient was also started on IV dexamethasone to help with the inflammation of the lungs.  She was also started on Lovenox (therapeutic dosing) based on prior history of stroke and increased susceptibility to blood clots with COVID-19 infection.  Patient developed fever shortly after admission and so Rocephin was started q24hrs while monitoring the blood cultures.  Based on the history it was noted that the patient had a new rash with started along with the symptoms about 10 days prior to admission so dermatology was consulted based on concerns of graft-versus-host events as patient has an immunocompromise state which was ruled out and Vaseline bid was recommended for irritant dermatitis and intertrigo.  Yesterday 1/5 patient underwent echocardiography to rule out any myocarditis which was within normal limits.  Repeat labs of CBC and CMP were unremarkable and ESR CRP were markedly elevated likely due to the Covid infection.  Patient was noted to have been requiring some low flow oxygen intermittently during nighttime when she is in deep sleep but did well during the day.  Yesterday there was improvement in her oral intake with good urine output and bowel movement.  No fevers reported in the last 24 hours and this morning patient was examined bedside and was noted to be well-appearing.  She did not require any low flow overnight and sats were maintained above 95%.  Patient has a follow-up with dermatology in 3 weeks for the rash.  Blood cultures so far have been negative with no growth. Third dose of remdesivir, ceftriaxone and dexamethasone were given today and ID recommended no further need for remdesivir and was comfortable with how pt did in the hospital. Family is comfortable going home and strong return precautions were provided prior to discharge with script for lab work to be done in 1 week.  Discharge Diagnoses      1. COVID  -ID consulted  -received 3 doses of steroids and Remdesivir   2. Rash (Irritant dermatitis)  -Derm consulted  -F/u with derm in clinic in 3 weeks  -Vaseline bid   Orders:   cefTRIAXone, 2 g, form: Injection, IVPB, Once, Routine, first dose 01/06/22 11:00:00 CST, Physician Stop, stop date 01/06/22 11:00:00 CST, 100 mL/hr, infuse over 30 minute(s), 50  Other Diagnoses   Ongoing  Asthma  BMI 33.0-33.9,adult  Chronic headaches  Epilepsy  History of CMV  Homozygous sickle cell (SS) disease  Hx of allogeneic stem cell transplant  Hypertension  Hypogammaglobulinemia  Immunocompromised state  Iron overload  Obesity  Peripheral neuropathy  QT prolongation  Historical  Acute chest syndrome in sickle cell disease  Acute constipation  Acute cystitis  Acute gastroenteritis  Dehydration  Dizziness  Fever  GERD - Gastro-esophageal reflux disease  Headache, new daily persistent (NDPH)  Ovarian cyst  Right atrial thrombus  Sickle cell pain crisis  Thrombus  Transcranial doppler ultrasound velocimetry  Operations and Procedures   none  Consultants   Infectious Disease    Dermatology   Pending Labs  Culture Blood (Preliminary, InProcess, ordered 01/04/2022, 09:20)   Culture Blood (Dispatched, Ordered 01/04/2022, 09:20)   Discharge Disposition  home  Medications  New, Changed, or Refilled Medications  None    Medications to be Continued  LORazepam (LORazepam 0.5 mg) 0.5 mg, 1 Tablet(s), Oral, q6h, PRN: as needed for anxiety, 0 Refill(s) Comments: Prescribed by HCF Hem/Onc/BMT   albuterol (albuterol  HFA 90 mcg/ 2 Puff, Inhalation, q4h, for 30 day(s), PRN: Wheezing, 0 Refill(s)    azithromycin (azithromycin 250 mg 250 mg, 1 Tablet(s), Oral, qM W F, 0 Refill(s)    cholecalciferol (Vitamin D3 25 mc 25 mcg, 1 capsule(s), Oral, Daily, 0 Refill(s)    escitalopram (escitalopram 10 mg) 15 mg, 1.5 Tablet(s), Oral, Daily, 0 Refill(s) Comments: Prescribed by HCF Hem/Onc/BMT   fluticasone (Flovent HFA 110 mcg/ 2 Puff, Inhalation, bid, PRN: Wheezing    gabapentin (gabapentin 300 mg) 900 mg, 3 capsule(s), Oral, tid, 8am, 3pm, and 8pm  Instructions:8am, 3pm, and 8pm  lactobacillus rhamnosus GG (Cultu 1 capsule(s), Oral, Daily    levETIRAcetam (Keppra 500 mg) 1,500 mg, 3 Tablet(s), Oral, qAM, 0 Refill(s)    levETIRAcetam (levETIRAcetam 1000 1,000 mg, 1 Tablet(s), Oral, qEvening, 0 Refill(s) Comments: Prescribed by HCF Hem/Onc/BMT   levothyroxine (levothyroxine 200 200 mcg, 1 Tablet(s), Oral, qAM    loratadine (loratadine 10 mg) 10 mg, 1 capsule(s), Oral, Daily, 0 Refill(s)    montelukast (montelukast 10 mg) 10 mg, 1 Tablet(s), Oral, qEvening, 0 Refill(s)    oxyCODONE (oxyCODONE 5 mg) 5 mg, 1 Tablet(s), Oral, q6h, PRN: Pain, Breakthrough, 0 Refill(s)    penicillin V potassium (penicilli 500 mg, 1 Tablet(s), Oral, bid, 0 Refill(s)      Discontinued Medications  None  Physical Exam at Discharge  Vitals & Measurements  T: 36.1 Â°C  TMIN: 36 Â°C  TMAX: 37.5 Â°C  HR: 87  RR: 16  BP: 117/76  SpO2: 97%      General: Alert, active, no acute distress.   Head: Atraumatic and normocephalic.  Eyes: Pupils equal round and reactive to light. Extra ocular movements intact. Normal conjunctivae.  ENT: Oropharynx dry without erythema, lesions, inflammation, or exudates.  Cardiovascular: S1-S2 heard.  Regular rate, regular rhythm.  No murmurs, rubs or gallops heard.  Capillary refill less than 3 seconds.  Good Radial pulses felt bilaterally.  Respiratory: Clear to auscultation bilaterally and no wheezes/Rales heard.  No signs of respiratory distress noted.  Abdominal: Soft, nontender and nondistended.  Bowel sounds heard in all 4 quadrants.  MSK: Moves all extremities equally with good strength and good tone.  Reports diffuse tenderness to palpation over the upper back.  Skin: Dry eczematous looking rash with erythematous border noted over the fold of the right armpit.   Neuro: Alert and oriented to time place and person.  Cranial nerves II to XII grossly intact.  Psych: Normal mood and appropriate affect.     Follow Up Appointments     Derm in 3 weeks (a MU representative will give a call to family)  Nursing/Other Orders   Regular Diet. Ordered on 01/04/22 13:23:00 CST, Meal Start Time Breakfast 0700 to 0900   Intake and Output (I&O). 01/04/22 13:23:00 CST, Continuous Order   Activity As Tolerated. 01/04/22 13:23:00 CST, Continuous Order   Code Status. Code Status Description: Full Code      Attestation by MD, on January 06, 2022 14:25 I personally saw and evaluated the patient on the result date found in the header of this document.  I independently performed the critical/key portions of the Evaluation and Management service and discussed the management with the author of this document.  I agree with everything documented above with the following exceptions/additions:  Patient is an 18 yo female with Hgb SS disease now ~15 months s/p allogeneic stem cell transplant at a HCF.  She was admitted on 1/4 for Covid-19 pneumonia with hypoxia.  She received remdesivir and dexamethasone x 3, as well as Rocephin due to fevers on hospital day 1.  Blood cultures remain NGTD.  She was able to tolerate RA prior to discharge, both while awake and sleeping.  Pain in her legs and chest has resolved.  She notes a small amount of continued pain in her upper back; however, has significantly improved and is manageable at home.  PO intake has normalized. No additional VTE prophylaxis necessary at this time.  Will call if fever, chest pain, or shortness of breath recur.  Will obtain CBC, reticulocyte count, and CMP locally on 1/10 as Hgb has decreased to 8.7 g/dL this AM. Results to be faxed to the HCF who will also coordinate follow-up as necessary in their clinic.  Dermatology to follow-up as outpatient for evaluation and management of irritant dermatitis and intertrigo.  Dermatitis not felt to be due to GVHD.  Mother at bedside at time of discharge who acknowledges understanding and agreement with plan. Diagnosis:  1. Covid-19 Pneumonia  2. Hgb SS disease  3. History of allogeneic stem cell transplant  4. Functional asplenia  5. Acute pain, resolved  6. Fever due to #1, resolved  7. Hypoxia due to #1, resolved  8. At risk for thrombosis due to #1 and #3, improved  9. Moderate anemia  10. Dermatitis  11. Mild leukocytosis with neutrophilia due to steroids","['Anaemia', 'Back pain', 'C-reactive protein increased', 'Chest pain', 'Dermatitis', 'Eczema', 'Haemoglobin decreased', 'Hyposplenism', 'Hypoxia', 'Intertrigo', 'Leukocytosis', 'Nausea', 'Neutrophilia', 'Pain', 'Pain in extremity', 'Pneumonitis', 'Pyrexia', 'Rash erythematous', 'Red blood cell sedimentation rate increased', 'Respiratory symptom', 'Tenderness', 'Vomiting']","[
+  {
+    ""Dermatitis"": [""irritant dermatitis""],
+    ""Eczema"": [""dry eczematous looking rash""],
+    ""Rash erythematous"": [""erythematous border""],
+    ""Intertrigo"": [""intertrigo""]
+  },
+  {
+    ""Nausea"": [""pt reports nausea""],
+    ""Vomiting"": [""vomiting""],
+    ""Respiratory symptom"": [""upper respiratory symptoms""],
+    ""Back pain"": [""backslash leg pain""],
+    ""Pain in extremity"": [""backslash leg pain""],
+    ""Chest pain"": [""pain in her legs and chest""],
+    ""Pain"": [""backslash leg pain""],
+    ""Hypoxia"": [""hypoxia requiring oxygen support""],
+    ""Pneumonitis"": [""Covid pneumonia""]
+  },
+  {
+    ""Pyrexia"": [""Patient developed fever shortly after admission""]
+  },
+  {
+    ""Red blood cell sedimentation rate increased"": [""ESR were markedly elevated""],
+    ""C-reactive protein increased"": [""CRP were markedly elevated""]
+  },
+  {
+    ""Anaemia"": [""moderate anemia""],
+    ""Haemoglobin decreased"": [""Hgb has decreased to 8.7 g/dL""],
+    ""Leukocytosis"": [""Mild leukocytosis""],
+    ""Neutrophilia"": [""neutrophilia""]
+  },
+  {
+    ""Hyposplenism"": [""functional asplenia""]
+  },
+  {
+    ""Tenderness"": [""diffuse tenderness to palpation over the upper back""]
+  }
+]","[
+  {
+    ""Dermatitis"": [
+      ""irritant dermatitis""
+    ],
+    ""Eczema"": [
+      ""dry eczematous looking rash""
+    ],
+    ""Rash erythematous"": [
+      ""erythematous border""
+    ],
+    ""Intertrigo"": [
+      ""intertrigo""
+    ]
+  },
+  {
+    ""Nausea"": [
+      ""pt reports nausea""
+    ],
+    ""Vomiting"": [
+      ""vomiting""
+    ],
+    ""Respiratory symptom"": [
+      ""upper respiratory symptoms""
+    ],
+    ""Back pain"": [
+      ""backslash leg pain""
+    ],
+    ""Pain in extremity"": [
+      ""backslash leg pain""
+    ],
+    ""Chest pain"": [
+      ""pain in her legs and chest""
+    ],
+    ""Pain"": [
+      ""backslash leg pain""
+    ],
+    ""Hypoxia"": [
+      ""hypoxia requiring oxygen support""
+    ],
+    ""Pneumonitis"": [
+      ""Covid pneumonia""
+    ]
+  },
+  {
+    ""Pyrexia"": [
+      ""Patient developed fever shortly after admission""
+    ]
+  },
+  {
+    ""Red blood cell sedimentation rate increased"": [
+      ""ESR were markedly elevated""
+    ],
+    ""C-reactive protein increased"": [
+      ""CRP were markedly elevated""
+    ]
+  },
+  {
+    ""Anaemia"": [
+      ""moderate anemia""
+    ],
+    ""Haemoglobin decreased"": [
+      ""Hgb has decreased to 8.7 g/dL""
+    ],
+    ""Leukocytosis"": [
+      ""Mild leukocytosis""
+    ],
+    ""Neutrophilia"": [
+      ""neutrophilia""
+    ]
+  },
+  {
+    ""Hyposplenism"": [
+      ""functional asplenia""
+    ]
+  },
+  {
+    ""Tenderness"": [
+      ""diffuse tenderness to palpation over the upper back""
+    ]
+  }
+]",,1,False
+1238916,"Pt has a history of DM2, HTN, HLD, HCV cirrhosis (sp treatment, Child Pugh A), CKD3 with baseline Cr 1.5 who presented to the ER after a syncopal episode and with headaches. She has no history of a positive COVID test. She reported receiving the J&J vaccine on 3/6 and reports headaches since then. She also had a syncopal episode that prompted her presentation to the ED. She underwent MRV of the brain looking for sinus thrombosis. The brain portion was normal but she was found to have a LIJ thrombus. She denies prior history of VTE. It is overall unclear if this thrombus is related the her symptoms, to the vaccine, or completely incidental. Pt was started on a heparin drip in the hospital...","['Cerebral venous sinus thrombosis', 'Headache', 'Jugular vein thrombosis', 'Magnetic resonance imaging head abnormal', 'Platelet count decreased', 'Syncope', 'Venogram abnormal']","[
+  {
+    ""Headache"": [
+      ""reports headaches since then""
+    ]
+  },
+  {
+    ""Syncope"": [
+      ""syncopal episode""
+    ]
+  },
+  {
+    ""Cerebral venous sinus thrombosis"": [
+      ""sinus thrombosis""
+    ],
+    ""Jugular vein thrombosis"": [
+      ""LIJ thrombus""
+    ],
+    ""Magnetic resonance imaging head abnormal"": [
+      ""none""
+    ],
+    ""Venogram abnormal"": [
+      ""found to have a LIJ thrombus""
+    ]
+  },
+  {
+    ""Platelet count decreased"": [
+      ""none""
+    ]
+  }
+]","[
+  {
+    ""Headache"": [
+      ""reports headaches since then""
+    ]
+  },
+  {
+    ""Syncope"": [
+      ""syncopal episode""
+    ]
+  },
+  {
+    ""Cerebral venous sinus thrombosis"": [
+      ""sinus thrombosis""
+    ],
+    ""Jugular vein thrombosis"": [
+      ""LIJ thrombus""
+    ],
+    ""Venogram abnormal"": [
+      ""found to have a LIJ thrombus""
+    ]
+  },
+  {
+    ""Magnetic resonance imaging head abnormal"": [
+      ""none""
+    ],
+    ""Platelet count decreased"": [
+      ""none""
+    ]
+  }
+]",,1,False
+1742373,"Severe nausea, severe headache, extreme arm pain, extreme fatigue, extreme brain fog for the first 4 days.   Brain fog , fatigue and nausea continued through 8/25/2021.  When the person gave me the shot, the first stick she said ?uh oh? and then immediately stuck me again. The injection sight was very bloody and painful.","['Fatigue', 'Feeling abnormal', 'Headache', 'Injection site haemorrhage', 'Injection site pain', 'Nausea', 'Pain in extremity']","[
+  {
+    ""Injection site haemorrhage"": [""very bloody""],
+    ""Injection site pain"": [""painful""]
+  },
+  {
+    ""Nausea"": [""Severe nausea""],
+    ""Headache"": [""Severe headache""],
+    ""Pain in extremity"": [""extreme arm pain""],
+    ""Fatigue"": [""extreme fatigue""],
+    ""Feeling abnormal"": [""extreme brain fog""]
+  }
+]","[
+  {
+    ""Injection site haemorrhage"": [
+      ""very bloody""
+    ],
+    ""Injection site pain"": [
+      ""painful""
+    ]
+  },
+  {
+    ""Nausea"": [
+      ""Severe nausea""
+    ],
+    ""Headache"": [
+      ""Severe headache""
+    ],
+    ""Pain in extremity"": [
+      ""extreme arm pain""
+    ],
+    ""Fatigue"": [
+      ""extreme fatigue""
+    ],
+    ""Feeling abnormal"": [
+      ""extreme brain fog""
+    ]
+  }
+]",,1,False
+1194660,"pt received J&J vaccine. Registrar talking to pt 3 min then pt stated ""I feel warm dizzy like I'm going to pass out"".  Pt became pale, diaphoretic, warm dizzy  - vaccinator put ice pack to back of neck and gave water to hydrate while sipping water pt drooled water out of mouth. pt was shaking and sliding down in chair, ammonia salts were used .  Medical evaluator called  - pt had vasovagal near syncopal episode.   Staff moved her to cot  no facial or tongue swelling noted. no LOC increased breathing VS 160/80, HR 88, resp 22 non labored.  Medical evaluator NP at side Ice pack to neck, arm pits between legs to cool down. Pt stated very anxious about getting vaccine. family present. Pt stated  this happened  in 2010 when she received an injection for TMJ. Provided reassurance to calm pt down.  EMS called -  FD responded  transferred care to EMS transported pt to hospital at approx  12:30 pm.  4/11/21 called husband to check on condition no answer no call back as yet","['Dizziness', 'Drooling', 'Feeling hot', 'Hyperhidrosis', 'Pallor', 'Presyncope', 'Tremor']","[
+  {
+    ""Feeling hot"": [""I feel warm""],
+    ""Dizziness"": [""dizzy""],
+    ""Presyncope"": [""like I'm going to pass out""]
+  },
+  {
+    ""Pallor"": [""became pale""],
+    ""Hyperhidrosis"": [""diaphoretic""]
+  },
+  {
+    ""Drooling"": [""drooled water out of mouth""]
+  },
+  {
+    ""Tremor"": [""shaking""]
+  }
+]","[
+  {
+    ""Feeling hot"": [
+      ""I feel warm""
+    ],
+    ""Dizziness"": [
+      ""dizzy""
+    ],
+    ""Presyncope"": [
+      ""like I'm going to pass out""
+    ]
+  },
+  {
+    ""Pallor"": [
+      ""became pale""
+    ],
+    ""Hyperhidrosis"": [
+      ""diaphoretic""
+    ]
+  },
+  {
+    ""Drooling"": [
+      ""drooled water out of mouth""
+    ]
+  },
+  {
+    ""Tremor"": [
+      ""shaking""
+    ]
+  }
+]",,1,False
+1253980,"FELT RED STREAK UNDER ARM FROM SHOULDER; EAR PAIN ON RIGHT SIDE; HOARSE VOICE; LOOSE STOOLS; HYPERGLYCEMIA; SWEATING; LEFT BREAST BURNING; PALPITATIONS; LEFT ARMPIT BURNING; FELT RUN OVER BY A TRUCK; LEFT ARM SMELLS AND LOOKED LIKE AN AVACADO UNDER THE ARMPIT; TEMPERATURE 99.7-100.4; LEFT ARM DELTOID SORE/LEFT ARM SORE; This spontaneous report received from a patient concerned a 45 year female. The patient's height, and weight were not reported. The patient's past medical history included tick bite, and concurrent conditions included obesity, type 2 diabetes mellitus, hypertension, and anxiety. The patient was not pregnant at the time of this report. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: 207A21A, and expiry: unknown) dose was not reported, 1 total, administered on 08-APR-2021 to left arm as prophylactic vaccination. Concomitant medications included fluvoxamine for anxiety, furosemide for hypertension, insulin degludec for type 2 diabetes mellitus, liraglutide for type 2 diabetes mellitus, sitagliptin for type 2 diabetes mellitus, and rosuvastatin. On 09-APR-2021, the patient experienced left arm smells and looked like an avacado under the armpit; she also felt run over by a truck. She had a temperature of 99.7-100.4 (unit unspecified) and had pain in left deltoid arm. On 10-APR-2021, the patient experienced palpitations, left armpit burning and left breast burning. On 11-APR-2021, the patient blood sugar was high 258 (unit unspecified) and experienced sweating and loose stools. On 12-APR-2021, the patient experienced ear pain on right side and had a hoarse voice. The patient had done lab tests at her physician's office; her blood sugar was 230 (unit unspecified), had palpitations at 144 (unit unspecified) and blood pressure was 157/95 mmHg. She was tested negative for covid-19 and had a sedimentation rate of 51(unit unspecified); her magnesium was at low level. She also did an unspecified lab test for lyme disease and was negative. The patient was prescribed with Nystatin cream and nystatin powder and she also took paracetamol (Tylenol) with no relief. The patient felt that she had a red streak under her arm from her shoulder and was going back to her urgent care; she also called her endocrinologist regarding her hyperglycemia.  The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient recovered from temperature 99.7-100.4 on 10-APR-2021, was recovering from left breast burning, left arm deltoid sore/left arm sore, sweating, and felt run over by a truck, had not recovered from left armpit burning, palpitations, hyperglycemia, ear pain on right side, loose stools, and left arm smells and looked like an avacado under the armpit, and the outcome of hoarse voice and felt red streak under arm from shoulder was not reported. This report was serious (Other Medically Important Condition).; Sender's Comments: 20210425219 -COVID-19 VACCINE AD26.COV2.S-Hyperglycemia .This event(s) is considered not related. The event(s) has a compatible/suggestive temporal relationship, is unlabeled, and has unknown scientific plausibility. There are other factors more likely to be associated with the event(s) than the drug. Specifically: MEDICAL HISTORY, UNDERLYING DISEASE","['Blood magnesium', 'Body temperature increased', 'Breast pain', 'Burning sensation', 'Diarrhoea', 'Dysphonia', 'Ear pain', 'Erythema', 'Feeling abnormal', 'Heart rate', 'Hyperglycaemia', 'Hyperhidrosis', 'Myalgia', 'Palpitations', 'Peripheral swelling', 'Red blood cell sedimentation rate']","[
+  {
+    ""Body temperature increased"": [""temperature 99.7-100.4""],
+    ""Feeling abnormal"": [""felt run over by a truck""],
+    ""Myalgia"": [""left arm deltoid sore""]
+  },
+  {
+    ""Palpitations"": [""palpitations""],
+    ""Burning sensation"": [""left armpit burning""],
+    ""Breast pain"": [""left breast burning""]
+  },
+  {
+    ""Hyperglycaemia"": [""blood sugar was high 258""],
+    ""Hyperhidrosis"": [""sweating""],
+    ""Diarrhoea"": [""loose stools""]
+  },
+  {
+    ""Ear pain"": [""ear pain on right side""],
+    ""Dysphonia"": [""hoarse voice""],
+    ""Heart rate"": [""palpitations at 144""],
+    ""Red blood cell sedimentation rate"": [""sedimentation rate of 51""],
+    ""Blood magnesium"": [""magnesium was at low level""]
+  },
+  {
+    ""Erythema"": [""felt red streak under arm from shoulder""],
+    ""Peripheral swelling"": [""none""]
+  }
+]","[
+  {
+    ""Body temperature increased"": [
+      ""temperature 99.7-100.4""
+    ],
+    ""Feeling abnormal"": [
+      ""felt run over by a truck""
+    ],
+    ""Myalgia"": [
+      ""left arm deltoid sore""
+    ]
+  },
+  {
+    ""Palpitations"": [
+      ""palpitations""
+    ],
+    ""Burning sensation"": [
+      ""left armpit burning""
+    ],
+    ""Breast pain"": [
+      ""left breast burning""
+    ]
+  },
+  {
+    ""Hyperglycaemia"": [
+      ""blood sugar was high 258""
+    ],
+    ""Hyperhidrosis"": [
+      ""sweating""
+    ],
+    ""Diarrhoea"": [
+      ""loose stools""
+    ]
+  },
+  {
+    ""Ear pain"": [
+      ""ear pain on right side""
+    ],
+    ""Dysphonia"": [
+      ""hoarse voice""
+    ],
+    ""Heart rate"": [
+      ""palpitations at 144""
+    ],
+    ""Red blood cell sedimentation rate"": [
+      ""sedimentation rate of 51""
+    ],
+    ""Blood magnesium"": [
+      ""magnesium was at low level""
+    ]
+  },
+  {
+    ""Erythema"": [
+      ""felt red streak under arm from shoulder""
+    ]
+  },
+  {
+    ""Peripheral swelling"": [
+      ""none""
+    ]
+  }
+]","[
+  {
+    ""Body temperature increased"": [
+      ""temperature 99.7-100.4""
+    ],
+    ""Feeling abnormal"": [
+      ""felt run over by a truck""
+    ],
+    ""Myalgia"": [
+      ""left arm deltoid sore""
+    ]
+  },
+  {
+    ""Palpitations"": [
+      ""palpitations""
+    ],
+    ""Burning sensation"": [
+      ""left armpit burning""
+    ],
+    ""Breast pain"": [
+      ""left breast burning""
+    ]
+  },
+  {
+    ""Hyperglycaemia"": [
+      ""blood sugar was high 258""
+    ],
+    ""Hyperhidrosis"": [
+      ""sweating""
+    ],
+    ""Diarrhoea"": [
+      ""loose stools""
+    ]
+  },
+  {
+    ""Ear pain"": [
+      ""ear pain on right side""
+    ],
+    ""Dysphonia"": [
+      ""hoarse voice""
+    ],
+    ""Heart rate"": [
+      ""palpitations at 144""
+    ],
+    ""Red blood cell sedimentation rate"": [
+      ""sedimentation rate of 51""
+    ],
+    ""Blood magnesium"": [
+      ""magnesium was at low level""
+    ],
+    ""Erythema"": [
+      ""felt red streak under arm from shoulder""
+    ]
+  },
+  {
+    ""Peripheral swelling"": [
+      ""none""
+    ]
+  }
+]",0,False
+1251865,"Typical side effects began next day(4/18), Arm soreness at injection site, headache, feeling of fatigue, breathing feeling slightly off,  but subsided after the second day (4/19).  Third day was completely fine (4/20), Morning of fourth day (4/21) wave of dizziness and fatigue began accompanied with feeling of pressure in ears with occasional ringing. Also headache at the back of the head and where the cervical spine meets the skull. Occasional congestion. Hard to concentrate and occasional lightheaded feeling. Going on one week since injection and 3rd day of dizzy spells. (4/24)  Treatment: Drinking mostly water. Diet consisting mostly of vegetables and grains (no changes have been made to my diet) Ibuprofen 200mg seems to alleviate earache which in turn relieves some dizziness but feeling of being off balance remains.  No previous history of any sort of vertigo or ear infections.","['Balance disorder', 'Disturbance in attention', 'Dizziness', 'Ear discomfort', 'Ear pain', 'Fatigue', 'Headache', 'Injection site pain', 'Respiration abnormal', 'Respiratory tract congestion', 'Tinnitus']","[
+  {
+    ""Injection site pain"": [""Arm soreness at injection site""],
+    ""Headache"": [""headache""],
+    ""Fatigue"": [""feeling of fatigue""],
+    ""Respiration abnormal"": [""breathing feeling slightly off""]
+  },
+  {
+    ""Dizziness"": [""wave of dizziness""],
+    ""Ear discomfort"": [""feeling of pressure in ears""],
+    ""Tinnitus"": [""occasional ringing""],
+    ""Respiratory tract congestion"": [""occasional congestion""],
+    ""Disturbance in attention"": [""Hard to concentrate""]
+  },
+  {
+    ""Ear pain"": [""earache""],
+    ""Balance disorder"": [""feeling of being off balance""]
+  }
+]","[
+  {
+    ""Injection site pain"": [
+      ""Arm soreness at injection site""
+    ],
+    ""Headache"": [
+      ""headache""
+    ],
+    ""Fatigue"": [
+      ""feeling of fatigue""
+    ],
+    ""Respiration abnormal"": [
+      ""breathing feeling slightly off""
+    ]
+  },
+  {
+    ""Dizziness"": [
+      ""wave of dizziness""
+    ],
+    ""Ear discomfort"": [
+      ""feeling of pressure in ears""
+    ],
+    ""Tinnitus"": [
+      ""occasional ringing""
+    ],
+    ""Respiratory tract congestion"": [
+      ""occasional congestion""
+    ],
+    ""Disturbance in attention"": [
+      ""Hard to concentrate""
+    ]
+  },
+  {
+    ""Ear pain"": [
+      ""earache""
+    ],
+    ""Balance disorder"": [
+      ""feeling of being off balance""
+    ]
+  }
+]",,1,False
+2393704,"Dizziness, Headache, Myalgia, Fever, CoughWheeze, 1/5-chills, sinus drainage; 1/7/21-102.5 temp, nausea; 1/12/21-injection site red, raised warm Narrative:  Employee rec'd flu vaccine Flurarix ot# 5332L by Glasko Smith Kline from outside source on 12/2/20. Tested positive for COVID-19 on 1/6/2021.","['Chills', 'Cough', 'Dizziness', 'Headache', 'Injection site erythema', 'Injection site swelling', 'Injection site warmth', 'Myalgia', 'Nausea', 'Paranasal sinus hypersecretion', 'Pyrexia', 'Wheezing']","```json
+[
+  {
+    ""Dizziness"": [""Dizziness""],
+    ""Headache"": [""Headache""],
+    ""Myalgia"": [""Myalgia""],
+    ""Cough"": [""Cough""],
+    ""Wheezing"": [""Wheeze""],
+    ""Pyrexia"": [""Fever""]
+  },
+  {
+    ""Chills"": [""chills""],
+    ""Paranasal sinus hypersecretion"": [""sinus drainage""]
+  },
+  {
+    ""Nausea"": [""nausea""]
+  },
+  {
+    ""Injection site erythema"": [""red""],
+    ""Injection site swelling"": [""raised""],
+    ""Injection site warmth"": [""warm""]
+  }
+]
+```","[
+  {
+    ""Dizziness"": [
+      ""Dizziness""
+    ],
+    ""Headache"": [
+      ""Headache""
+    ],
+    ""Myalgia"": [
+      ""Myalgia""
+    ],
+    ""Cough"": [
+      ""Cough""
+    ],
+    ""Wheezing"": [
+      ""Wheeze""
+    ],
+    ""Pyrexia"": [
+      ""Fever""
+    ]
+  },
+  {
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Paranasal sinus hypersecretion"": [
+      ""sinus drainage""
+    ]
+  },
+  {
+    ""Nausea"": [
+      ""nausea""
+    ]
+  },
+  {
+    ""Injection site erythema"": [
+      ""red""
+    ],
+    ""Injection site swelling"": [
+      ""raised""
+    ],
+    ""Injection site warmth"": [
+      ""warm""
+    ]
+  }
+]",,1,False
+2214508,"I started to experience a chest and head cold. I had very mild symptoms. Three days later, I went to the hospital because I had to do a prescreening for a procedure. I was given a COVID test, and it came back positive. I did take Nyquil to help me sleep. Two days after that I lost my taste and smell about a week later, I had my taste and smell back. I took a home test on 12/14/2021 and it came back negative. Within 10 days from the onset of symptoms I was back to normal.","['Ageusia', 'Anosmia', 'Insomnia', 'Lower respiratory tract infection', 'Nasopharyngitis']","[
+  {
+    ""Ageusia"": [""none""],
+    ""Anosmia"": [""none""],
+    ""Insomnia"": [""none""],
+    ""Lower respiratory tract infection"": [""chest cold""],
+    ""Nasopharyngitis"": [""head cold""]
+  },
+  {
+    ""Ageusia"": [""lost my taste""],
+    ""Anosmia"": [""lost my smell""],
+    ""Insomnia"": [""none""],
+    ""Lower respiratory tract infection"": [""none""],
+    ""Nasopharyngitis"": [""none""]
+  }
+]","[
+  {
+    ""Lower respiratory tract infection"": [
+      ""chest cold""
+    ],
+    ""Nasopharyngitis"": [
+      ""head cold""
+    ]
+  },
+  {
+    ""Ageusia"": [
+      ""lost my taste""
+    ],
+    ""Anosmia"": [
+      ""lost my smell""
+    ]
+  },
+  {
+    ""Insomnia"": [
+      ""none""
+    ]
+  }
+]","[
+  {
+    ""Lower respiratory tract infection"": [
+      ""chest cold""
+    ],
+    ""Nasopharyngitis"": [
+      ""head cold""
+    ]
+  },
+  {
+    ""Ageusia"": [
+      ""lost my taste""
+    ],
+    ""Anosmia"": [
+      ""lost my smell""
+    ]
+  },
+  {
+    ""Insomnia"": [
+      ""none""
+    ]
+  }
+]",1,False
+1745666,"18:50 Patient receives vaccine 18:51 Patient arrives in the observation area accompanied by her mother and the nurse assigned to the observation area who explains to both the patient and her mother that the patient will be observed for fifteen minutes and explains the common side effects and what to do should any of them occur in the next 24-48 hours. Both the patient and the mother verbalized understanding. 18:53  Patient signs for and receives incentive, also gets a pack of fruit snacks. 18:57 - Patient states she does not feel well and looks pale, patient was also diaphoretic. LPN monitoring the observation area approaches the young lady and she immediately slumps to the right in her chair and appears to lose consciousness.. LPN and another nurse transfer the patient from the chair to the stretcher and use a capsule of spirit of ammonia that is broken and waved under the patient?s nose and she immediately responds. 18:58 Vital signs are taken: BP-90/58, P-80, R-18, O2 sat-99-100%. Patient is verbally responsive and able to state her name and recognize her mother. Patient denies difficulty swallowing, breathing or feeling itchy. On physical observation patient does not have any redness or rash appearing on her face, neck, upper extremities or torso. Her upper extremities are warm and dry to touch. 19:03  Patient placed in an upright/seated position, denies feeling dizzy or lightheaded and is offered some water. Able to follow commands and swallow without difficulty. Monitoring continues by RN on site. Patient offered a granola bar and is able to eat without difficulty 19:06- VS taken: BP-100/60, P-101, O2 sat 100%. Monitoring continued in the observation area by RN. Patient is alert and oriented, denying any discomfort/difficulties.  19:23 ? Patient leaves the observation area/clinic accompanied by her mother after informing and instructing the mother of s/s to observe for throughout the night and when to call 911 or seek medical attention. The mother and daughter verbalize understanding the information. Patient was able to ambulate without difficulty or assistance.","['Dry skin', 'Hyperhidrosis', 'Loss of consciousness', 'Malaise', 'Pallor', 'Posture abnormal', 'Skin warm']","[
+  {
+    ""Malaise"": [""does not feel well""],
+    ""Pallor"": [""looks pale""],
+    ""Hyperhidrosis"": [""diaphoretic""]
+  },
+  {
+    ""Loss of consciousness"": [""appears to lose consciousness""],
+    ""Posture abnormal"": [""slumps to the right in her chair""]
+  },
+  {
+    ""Skin warm"": [""upper extremities are warm to touch""],
+    ""Dry skin"": [""dry to touch""]
+  }
+]","[
+  {
+    ""Malaise"": [
+      ""does not feel well""
+    ],
+    ""Pallor"": [
+      ""looks pale""
+    ],
+    ""Hyperhidrosis"": [
+      ""diaphoretic""
+    ]
+  },
+  {
+    ""Loss of consciousness"": [
+      ""appears to lose consciousness""
+    ],
+    ""Posture abnormal"": [
+      ""slumps to the right in her chair""
+    ]
+  },
+  {
+    ""Skin warm"": [
+      ""upper extremities are warm to touch""
+    ],
+    ""Dry skin"": [
+      ""dry to touch""
+    ]
+  }
+]",,1,False
+1932176,"Pt contacted clinic to state he was having some numbness and tingling in left arm and left leg. Pt stayed in clinic for 15 mins post injection and called back to clinic approx one hour after his shot. Pt was advised to go to the ER immediately for medical attention. Pt agreed said he did not need us to call 911. Pt contacted clinic via customer service and left the following message:  Pt sent an FYI:  ""This is FYI:  It could not be tied to the booster shot, but not ruled out either.  I took the Pfizer booster shot Monday around 6 p.m. Within 30 minutes, my left cheek, arm, and hip had gone completely numb. I went to the ER, and the numbness disappeared just before I arrived. I had an MRI/CAT scan, no problem found, and was sent home.  As Tuesday went on, I felt worse and worse. I got back home around 4:30. About an hour later, my sister found me on all fours on the floor, unable to speak. She said I was extremely hot with soaked clothes. She called an ambulance, and said I with fought the techs. I don't remember anything until sometime Wednesday.  I had a spinal tap on Wednesday, which turned out normal. Might have been an inflammation.  They pumped me full of antibiotics/steroids/meds all day Wednesday and that night.  I was released Thursday afternoon.  The Dr's said it was something like a seizure, but wouldn't go that far.  They said the booster shot episode could have been involved, but there was no way to tell for sure.  They said to take it easy for awhile and preferably not drive.""","['Feeling hot', 'Hypoaesthesia', 'Memory impairment', 'Speech disorder']","[
+  {
+    ""Hypoaesthesia"": [
+      ""my left cheek, arm, and hip had gone completely numb""
+    ]
+  },
+  {
+    ""Feeling hot"": [
+      ""extremely hot with soaked clothes""
+    ],
+    ""Speech disorder"": [
+      ""unable to speak""
+    ]
+  },
+  {
+    ""Memory impairment"": [
+      ""I don't remember anything until sometime Wednesday""
+    ]
+  }
+]","[
+  {
+    ""Hypoaesthesia"": [
+      ""my left cheek, arm, and hip had gone completely numb""
+    ]
+  },
+  {
+    ""Feeling hot"": [
+      ""extremely hot with soaked clothes""
+    ],
+    ""Speech disorder"": [
+      ""unable to speak""
+    ]
+  },
+  {
+    ""Memory impairment"": [
+      ""I don't remember anything until sometime Wednesday""
+    ]
+  }
+]",,1,False
+1111595,"About an hour after getting my first shot i started to have back and leg pain, a headache was developing.  about an two and a half hours I started feeling weak. It was hard for me to lift and carry things, I was getting winded walking across the building and the i would feel a little nauseous but that would go away after standing still for a few minutes.","['Asthenia', 'Back pain', 'Dyspnoea', 'Headache', 'Nausea', 'Pain in extremity']","[
+  {
+    ""Back pain"": [""back and leg pain""],
+    ""Pain in extremity"": [""back and leg pain""],
+    ""Headache"": [""headache was developing""]
+  },
+  {
+    ""Asthenia"": [""feeling weak""],
+    ""Dyspnoea"": [""getting winded walking across the building""],
+    ""Nausea"": [""a little nauseous""]
+  }
+]","[
+  {
+    ""Back pain"": [
+      ""back and leg pain""
+    ],
+    ""Pain in extremity"": [
+      ""back and leg pain""
+    ],
+    ""Headache"": [
+      ""headache was developing""
+    ]
+  },
+  {
+    ""Asthenia"": [
+      ""feeling weak""
+    ],
+    ""Dyspnoea"": [
+      ""getting winded walking across the building""
+    ],
+    ""Nausea"": [
+      ""a little nauseous""
+    ]
+  }
+]",,1,False
+1100611,"2/05/21 6 hrs after injection my thigh muscles on both legs tightened up and I could not bend at the upper thigh.  very painful. 2/09/21 woke up with foggy vision and eyes burned like fire all day. 2/11/21 At work and felt fine until n/v/d hit hard and had to leave work.  Shaky. dizzy, lightheaded with chills   Could not stop   shaking until the next am. 2/13/21 Face was extremely blotchy and very swollen with eyes still red and small.  Left eye smaller and more swollen than right. 2/18/21 Developed chest pain.  No SOB tongue not swollen.  Resp  and spo2 down to 94% normally 98 or 99","['Chest pain', 'Chills', 'Diarrhoea', 'Dizziness', 'Erythema', 'Eye swelling', 'Gait disturbance', 'Muscle tightness', 'Nausea', 'Nervousness', 'Ocular hyperaemia', 'Oxygen saturation decreased', 'Pain in extremity', 'Rash macular', 'Thermal burns of eye', 'Visual impairment', 'Vomiting']","[
+  {
+    ""Muscle tightness"": [""thigh muscles on both legs tightened up""],
+    ""Pain in extremity"": [""could not bend at the upper thigh""]
+  },
+  {
+    ""Visual impairment"": [""foggy vision""],
+    ""Thermal burns of eye"": [""eyes burned like fire""]
+  },
+  {
+    ""Nausea"": [""n/v/d hit hard""],
+    ""Vomiting"": [""n/v/d hit hard""],
+    ""Diarrhoea"": [""n/v/d hit hard""],
+    ""Dizziness"": [""dizzy, lightheaded""],
+    ""Chills"": [""chills""],
+    ""Nervousness"": [""shaky""]
+  },
+  {
+    ""Erythema"": [""extremely blotchy""],
+    ""Eye swelling"": [""very swollen""],
+    ""Ocular hyperaemia"": [""eyes still red""]
+  },
+  {
+    ""Chest pain"": [""chest pain""],
+    ""Oxygen saturation decreased"": [""spo2 down to 94%""]
+  },
+  {
+    ""Gait disturbance"": [""none""],
+    ""Rash macular"": [""none""]
+  }
+]","[
+  {
+    ""Muscle tightness"": [
+      ""thigh muscles on both legs tightened up""
+    ],
+    ""Pain in extremity"": [
+      ""could not bend at the upper thigh""
+    ]
+  },
+  {
+    ""Visual impairment"": [
+      ""foggy vision""
+    ],
+    ""Thermal burns of eye"": [
+      ""eyes burned like fire""
+    ]
+  },
+  {
+    ""Nausea"": [
+      ""n/v/d hit hard""
+    ],
+    ""Vomiting"": [
+      ""n/v/d hit hard""
+    ],
+    ""Diarrhoea"": [
+      ""n/v/d hit hard""
+    ],
+    ""Dizziness"": [
+      ""dizzy, lightheaded""
+    ],
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Nervousness"": [
+      ""shaky""
+    ]
+  },
+  {
+    ""Erythema"": [
+      ""extremely blotchy""
+    ],
+    ""Eye swelling"": [
+      ""very swollen""
+    ],
+    ""Ocular hyperaemia"": [
+      ""eyes still red""
+    ]
+  },
+  {
+    ""Chest pain"": [
+      ""chest pain""
+    ],
+    ""Oxygen saturation decreased"": [
+      ""spo2 down to 94%""
+    ]
+  },
+  {
+    ""Rash macular"": [
+      ""none""
+    ],
+    ""Gait disturbance"": [
+      ""none""
+    ]
+  }
+]",,1,False
+1588526,"Patient medical emergency - post COVID 19 J&J vaccine   Episode started at 1126 - patient was in observation room with Mother at Side Patient became diaphoretic, clammy, pale white, then had a syncope episode. .3mg Epi given by this RN in left quad.    1129:  BP 77/33  P 92 Patient reported chest tightening Patient was brought to the ground legst propped up on chair. O2 applied at 8L via Nasal Cannula  Stat: 97%   RN instructed to call 911 911 dispatched 1134: P 47   O2 99% 1135: BP 141/58  P 58   1140: Patient transferred","['Chest discomfort', 'Cold sweat', 'Hyperhidrosis', 'Pallor', 'Syncope']","[
+  {
+    ""Cold sweat"": [""diaphoretic, clammy""],
+    ""Hyperhidrosis"": [""diaphoretic""],
+    ""Pallor"": [""pale white""]
+  },
+  {
+    ""Syncope"": [""syncope episode""]
+  },
+  {
+    ""Chest discomfort"": [""chest tightening""]
+  }
+]","[
+  {
+    ""Cold sweat"": [
+      ""diaphoretic, clammy""
+    ],
+    ""Hyperhidrosis"": [
+      ""diaphoretic""
+    ],
+    ""Pallor"": [
+      ""pale white""
+    ]
+  },
+  {
+    ""Syncope"": [
+      ""syncope episode""
+    ]
+  },
+  {
+    ""Chest discomfort"": [
+      ""chest tightening""
+    ]
+  }
+]",,1,False
+1646324,"patient's blood pressure and it was 140 over a 100; not feeling good; felt kind of weird; felt kind of chills; felt like she wanted to faint, she felt little dizzy; This is a spontaneous report from a contactable consumer (patient's husband). A 27-year-old female patient received BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE), via an unspecified route of administration in left arm on 03Aug2021 (Batch/Lot number was not reported; at the age of 27 years old) as dose 1, single for COVID-19 immunization. Medical history included fibromyalgia and blood pressure (abnormal). Concomitant medications included duloxetine; pregabalin; labetalol; and other unspecified medication, all for blood pressure. The patient received her first Pfizer vaccine today (on 03Aug2021, pending clarification). The patient told her husband that she was not feeling good and felt kind of weird. The patient also felt kind of chills. So, the patient's husband came and checked the patient's blood pressure and it was 140 over a 100 and pulse was very close to 80. The patient took blood pressure pills at nighttime and it helped some. The patient felt like she wanted to faint, she felt little dizzy earlier she was holding the baby. The patient's husband is wondering whether it was side effects of the vaccine or if was because of her blood pressure condition. The reporter confirmed that the patient experienced the events probably about 05:30, about 2 hours after she received the shot. The patient is still experiencing the events. The patient had not yet recovered from the events.   Information on the lot/batch number has been requested.","['Blood pressure increased', 'Chills', 'Dizziness', 'Feeling abnormal', 'Heart rate', 'Malaise']","[
+  {
+    ""Feeling abnormal"": [""not feeling good; felt kind of weird""],
+    ""Chills"": [""felt kind of chills""],
+    ""Malaise"": [""not feeling good""]
+  },
+  {
+    ""Blood pressure increased"": [""blood pressure was 140 over a 100""],
+    ""Heart rate"": [""pulse was very close to 80""]
+  },
+  {
+    ""Dizziness"": [""felt like she wanted to faint; felt little dizzy""]
+  }
+]","[
+  {
+    ""Feeling abnormal"": [
+      ""not feeling good; felt kind of weird""
+    ],
+    ""Chills"": [
+      ""felt kind of chills""
+    ],
+    ""Malaise"": [
+      ""not feeling good""
+    ]
+  },
+  {
+    ""Blood pressure increased"": [
+      ""blood pressure was 140 over a 100""
+    ],
+    ""Heart rate"": [
+      ""pulse was very close to 80""
+    ]
+  },
+  {
+    ""Dizziness"": [
+      ""felt like she wanted to faint; felt little dizzy""
+    ]
+  }
+]",,1,False
+1410766,"Client reported feeling nauseous and dizzy as well as having a headache and ""heavy""right arm during the 15 minute waiting period after receiving her vaccine. Client's vital signs taken at 1545  and were BP 108/72, P 89, O2 99% and R 14. Client was given some water and animal crackers. Client was encouraged to drink fluids and stay hydrated. Client continued to report feeling dizzy  and tired, but reported her heavy arm had improved. Blood pressure was reassessed at 1600 and was 126/82. PHN encouraged client to rest and stay hydrated and if her symptoms did not improve or resolve she should be seen in the walk in or by a medical provider. Client verbalized understanding. Client left clinic with her husband who was giving her a ride. On 6/18/2021 at 1022 PHN placed call to client to see how client was feeling today. Call went straight to voicemail. PHN requested call back. Client returned call just before 1400 and reported symptom improvement and that client was only feeling tired today.","['Dizziness', 'Fatigue', 'Headache', 'Nausea']","[
+  {
+    ""Nausea"": [""feeling nauseous""],
+    ""Dizziness"": [""feeling dizzy""],
+    ""Headache"": [""headache""]
+  },
+  {
+    ""Fatigue"": [""feeling tired""]
+  }
+]","[
+  {
+    ""Nausea"": [
+      ""feeling nauseous""
+    ],
+    ""Dizziness"": [
+      ""feeling dizzy""
+    ],
+    ""Headache"": [
+      ""headache""
+    ]
+  },
+  {
+    ""Fatigue"": [
+      ""feeling tired""
+    ]
+  }
+]",,1,False
+1199036,"12 hours-36 hours after extreme muscle aches, chills, intermittent fever over 100 degrees, pounding headache, fatigue.  36-60 hours after fatigue and muscle aches...especially kidney area/lower back.  60 hours to present muscle pain by end of day and night sweats/chills.  I am healthy and rarely get sick.  This is not normal for me.","['Chills', 'Fatigue', 'Headache', 'Myalgia', 'Night sweats', 'Pyrexia']","[
+  {
+    ""Chills"": [""chills""],
+    ""Fatigue"": [""fatigue""],
+    ""Headache"": [""pounding headache""],
+    ""Myalgia"": [""extreme muscle aches""],
+    ""Pyrexia"": [""intermittent fever over 100 degrees""]
+  },
+  {
+    ""Night sweats"": [""night sweats""]
+  }
+]","[
+  {
+    ""Chills"": [
+      ""chills""
+    ],
+    ""Fatigue"": [
+      ""fatigue""
+    ],
+    ""Headache"": [
+      ""pounding headache""
+    ],
+    ""Myalgia"": [
+      ""extreme muscle aches""
+    ],
+    ""Pyrexia"": [
+      ""intermittent fever over 100 degrees""
+    ]
+  },
+  {
+    ""Night sweats"": [
+      ""night sweats""
+    ]
+  }
+]",,1,False
+1110990,"Had nausea, body aches, chills and slight aches at injection site.  Some diarrhea as well. Symptoms lasted for a few hours (except diarrhea which lasted a couple of days).  All fine currently.","['Chills', 'Diarrhoea', 'Injection site pain', 'Nausea', 'Pain']","""No temporal information found""",No temporal information found,,1,True
+1203749,"Patient had a syncope episode along with urinary incomitance shortly after receiving the Janssen vaccine. Pt was sitting in the medical monitor area when the event happened. Pt was unconscious for less than a minute and EMS was called. EMS evaluated pt, he was pale but fully verbal and functioning.  vitals were stable,  BP 110/69, HR 74,  02 97. Pt refused transport but was monitored at the site by Dr,  for an hr before being released. Pt was instructed to go to UC/ER if he had another episode or new s/s and follow up with his primary care provider. The following day, the patient's primary care provider, NP tried multiple times to reach out and follow up with pt. Pt did not respond to his PCP.","['Loss of consciousness', 'Pallor', 'Syncope', 'Urinary incontinence']","[
+  {
+    ""Syncope"": [""syncope episode""],
+    ""Urinary incontinence"": [""urinary incomitance""]
+  },
+  {
+    ""Loss of consciousness"": [""unconscious for less than a minute""]
+  },
+  {
+    ""Pallor"": [""pale""]
+  }
+]","[
+  {
+    ""Syncope"": [
+      ""syncope episode""
+    ],
+    ""Urinary incontinence"": [
+      ""urinary incomitance""
+    ]
+  },
+  {
+    ""Loss of consciousness"": [
+      ""unconscious for less than a minute""
+    ]
+  },
+  {
+    ""Pallor"": [
+      ""pale""
+    ]
+  }
+]",No temporal information found,0,True
+1912829,"Patient reports that since getting second Moderna covid 19 shot she feels terrible, she is experiencing various muscle pains and headaches. Additionally, her menses which was always consistently 28 cycles with 5 days of bleeding is now completely dysregulated. The cycle is now variable in length with bleeding ranging from 9-20 days with darker than usual blood and a lot more clotting. For this the patient is receiving acupuncture therapy in our clinic as according to her reports none of her allopathic doctors even believe that she is having a reaction to the vaccine and only offer pain medications that give her anxiety and stomach pain. Today is her second acupuncture treatment. The first yielded relief for only two hours and the pain returned quickly after.","['Feeling abnormal', 'Headache', 'Heavy menstrual bleeding', 'Menstruation irregular', 'Myalgia', 'Pain']","""No temporal information found""",No temporal information found,,1,True
+1254521,"shingles rash burning, itching, and pain; shingles rash burning, itching, and pain; shingles rash burning, itching, and pain; shingles rash burning, itching, and pain; Chills; Fatigue; Shingles; This is a spontaneous report from a contactable consumer.A 80-years-old female patient received BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE), dose 1 via an unspecified route of administration, administered in Arm Left on 26Feb2021 14:30 (Batch/Lot Number: EN6202) as SINGLE DOSE for covid-19 immunisation.  Medical history included Mitral valve prolapse, thyroid surgery, sleep apnoea. The patient's concomitant medications were not reported.  On February 26th she got her first dose of the  vaccine, and she is scheduled to get the second April 8th. She says on March 8th she was diagnosed with shingles. Her shingles rash she really didn't have long, it has almost faded now, it is almost nothing as far as scabs. She says she still has the burning, itching, and pain, but today it is not so bad. She says she sometimes has chills, which is one of the things that goes along with it, and fatigue. She says her concern was about this too, because even though the rash is gone she still has symptoms, does this mean her shingles are still active. She says she asked her pharmacist and they said it could still be active. her first dose of the vaccine was given in the afternoon, probably 02:30PM. She says she was diagnoses with shingles on March 8th after a visual diagnosis. Pfizer COVID-19 vaccine NDC/EXP: Not provided on handwritten vaccine card. AE Treatment:  Caller says for the shingles her doctor hasn't said anything, she did get a prescription which she took, of 3 tablets a day for a week, so 21 tablets. She says she was also prescribed an ointment that she was putting on. She says that the tablets were Valacyclovir 1 gram, and she took one tablet by mouth three times daily for 7 days. She says this medication was dispensed in a pharmacy bottle from pharmacy, NDC/LOT/EXP were not provided on pharmacy label. Caller says the ointment was Triamcinolone Acetonide ointment USP 0.025%, which was applied usually before bed around 10:00PM-10:30PM. She says the label on that says apply externally to affected area twice daily for 15 days, but she applied it only once a day. Caller says that the EXP on the tube is little, it is July 2022, LOT: Unknown, unable to see on the tube. NDC: Caller says this is very, very little, she needs her magnifying glass, it looks like it is 45802-054-35. She says that the NDC is almost not on there, it is so little. Outcome of  shingles, rash,burning, itching, and pain was recovering, of  chills and fatigue was unknown.Therapeutic measures were taken as a result of shingles.  No follow-up attempts possible. No further information expected.","['Burning sensation', 'Chills', 'Fatigue', 'Herpes zoster', 'Pain', 'Pruritus', 'Rash']",No temporal information found,No temporal information found,,1,True
+1223100,"Period symptoms worsened after shot - heavier flow, more severe PMS, lower back pain, etc.","['Back pain', 'Dysmenorrhoea', 'Heavy menstrual bleeding', 'Menstrual disorder']",No temporal information found,No temporal information found,,1,True
+1841543,"At 1256 patient received the vaccine and went to the observation area to sit down. At 1257 patient fell to the floor in the observation area. Patient reported feeling dizzy and lightheaded. Patient was alert and oriented to person, place and time. Patient seemed confused about the situation. Patient appeared pale. Patient denied chest pain, head pain, and back pain. Patient reported pain only in the left arm at the injection site. The arm was assessed and it did not appear to be red or swollen. The patient denied any shortness of breath and denied any difficulty breathing. Patient denied any itching. Patient was kept laying down. At 1259 EMS/911 was called. At 1300 patient's BP 90/52 and HR 94 At 1302 patient's BP 88/62 and HR 88. Patient's legs were elevated. At 1305 patient's BP 88/60 and HR 81. At 1309 patient's BP 98/60 and HR 72. At 1310 the fire department arrived at the scene and assumed care of the patient. At 1316 patient's BP 118/77 and HR 78 while sitting. Patient's BP 122/81 and HR 89 while standing. Patient was transferred to a cot and was put in a sitting position. Patient reported some dizziness. At 1321 BP 92/63, HR 72, and O2 Sat 100%. At 1323 Patient refused offer to call family. Patient chose to call his girlfriend on his own. Patient was advised to go to the emergency room with the paramedics to prevent further worsening of his condition. At 1330 patient's BP 96/64, HR 69, and O2 Sat 99%. At 1332 Paramedics arrived on site and assumed care of the patient. Patient was transported to the nearest emergency room by ambulance.","['Confusional state', 'Dizziness', 'Fall', 'Injection site pain', 'Pallor']",No temporal information found,No temporal information found,,1,True
+1252858,"BODY ACHES; CHILLS; BANGING SEVERE HEADACHE; FEVER; FATIGUE; This spontaneous report received from a patient concerned a patient of unspecified age and sex. The patient's height, and weight were not reported. The patient's past medical history included covid.The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: Unk) dose was not reported, administered on 11-MAR-2021 for prophylactic vaccination. Batch number was not reported. Per procedure, no follow up will be requested for this case. No concomitant medications were reported. On 11-MAR-2021, the subject experienced body aches. On 11-MAR-2021, the subject experienced chills. On 11-MAR-2021, the subject experienced banging severe headache. On 11-MAR-2021, the subject experienced fever. On 11-MAR-2021, the subject experienced fatigue. Laboratory data included: Body temperature (NR: not provided) 102.7. Treatment medications (dates unspecified) included: oxycodone/paracetamol. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The patient recovered from fever on 13-MAR-2021, and was recovering from banging severe headache, chills, body aches, and fatigue. This report was non-serious.","['Chills', 'Fatigue', 'Headache', 'Pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2661057,"Dizziness, Headache, Myalgia, Fever, CoughWheeze, Diarrhea, NauseaVomiting, loss of taste/smell, sore throat, chills, fatigue, decreased appetite Narrative:  symptoms persist on and off (GI effects only 3-4 days) for over 1 week. Day 8 from vaccination and still experiencing fatigue on/off and headaches. Recently diagnosed with cancer and underwent radiation therapy in Dec 2020. Has similar reaction with influenza vaccine. Reports getting COVID tested but was negative.","['Ageusia', 'Anosmia', 'Chills', 'Cough', 'Decreased appetite', 'Diarrhoea', 'Dizziness', 'Fatigue', 'Headache', 'Myalgia', 'Nausea', 'Oropharyngeal pain', 'Pyrexia', 'Vomiting', 'Wheezing']","""No temporal information found""",No temporal information found,,1,True
+1207526,"ORAL ITCHING,  PALATE,TONGUE. UVULA SWELLING, LARYNGEAL FULLNESS/EDEMA, ASTHMA. EPI 0.3 ML IMBENADRYL 25 MG PO, SECOND DOSE BENADRYL 50 MG IM , PEPCID 20 MG PO, ALL AT COVID CLINIC , TRANFER TO HOSPITAL PER EMS FOR FOR 6 HOUR OBSERVATION. GIVEN CORTIZONE. NO FURTHER MODERNA OF PFIZER VACCINE TO BE GIVEN, PATIENT ADVISED.  SEE ALLERGIST.","['Asthma', 'Enlarged uvula', 'Laryngeal oedema', 'Oral pruritus', 'Sensation of foreign body', 'Tongue pruritus']",No temporal information found,No temporal information found,,1,True
+1380650,"SORE THROAT; JOINT PAIN; CHILLS; FEVER; This spontaneous report received from a patient concerned a 48 year old female. The patient's height, and weight were not reported. No past medical history or concurrent conditions were reported. The patient received covid-19 vaccine ad26.cov2.s (suspension for injection, route of admin not reported, batch number: 204A21A, expiry: UNKNOWN) dose was not reported, administered on 30-MAY-2021 for prophylactic vaccination. No concomitant medications were reported. On 02-JUN-2021, the subject experienced sore throat. On 02-JUN-2021, the subject experienced joint pain. On 02-JUN-2021, the subject experienced chills. On 02-JUN-2021, the subject experienced fever. The action taken with covid-19 vaccine ad26.cov2.s was not applicable. The outcome of the sore throat, fever, joint pain and chills was not reported. This report was non-serious.","['Arthralgia', 'Chills', 'Oropharyngeal pain', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+2570041,"Approximately 3 months after vaccine, I developed an echo in my left ear resulting in a significant decrease in speech discernment. I also experienced an increase in meneire?s vertigo attacks.","['Condition aggravated', ""Meniere's disease"", 'Tinnitus', 'Vertigo']",No temporal information found,No temporal information found,,1,True
+1904423,After both injections my seizures and migraines were more frequent and I am currently having a new type of seizures out of the blue that we are trying to treat I am also experiencing a visual loss. After both of my vaccines  my blood sugar and blood pressure have been high  which prompted  a visit to the Emergency Department (when it has always been very low.) I also experience an elevated heart rate. I am now having to be treated for Hypertension.,"['Blindness', 'Blood glucose increased', 'Condition aggravated', 'Heart rate increased', 'Hypertension', 'Migraine', 'Seizure']",No temporal information found,No temporal information found,,1,True
+1848297,"Kind of like a welt; Rash on parts of her body on her back; red spot at injection site, 3-4 inches in diameter; Headache; This spontaneous case was reported by a consumer and describes the occurrence of URTICARIA (Kind of like a welt), RASH (Rash on parts of her body on her back), VACCINATION SITE ERYTHEMA (red spot at injection site, 3-4 inches in diameter) and HEADACHE (Headache) in a 78-year-old female patient who received mRNA-1273 (Moderna COVID-19 Vaccine) (batch nos. 091F21A, 02AL20A and 013L20A) for COVID-19 vaccination.     No medical history was provided by the reporter.  Concomitant products included ATORVASTATIN, SERTRALINE, CLONAZEPAM, COLECALCIFEROL (VITAMIN D3) and VITAMIN B12 [VITAMIN B12 NOS] for an unknown indication.   On 13-Jan-2021, the patient received first dose of mRNA-1273 (Moderna COVID-19 Vaccine) (Intramuscular) 1 dosage form. On 10-Feb-2021, received second dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) dosage was changed to 1 dosage form. On 25-Oct-2021, received third dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) dosage was changed to 1 dosage form. On 25-Oct-2021, the patient experienced URTICARIA (Kind of like a welt), RASH (Rash on parts of her body on her back), VACCINATION SITE ERYTHEMA (red spot at injection site, 3-4 inches in diameter) and HEADACHE (Headache). The patient was treated with XYLOMETAZOLINE HYDROCHLORIDE (SUDAFED [XYLOMETAZOLINE HYDROCHLORIDE]) for Adverse event, at an unspecified dose and frequency. On 27-Oct-2021, HEADACHE (Headache) had resolved. At the time of the report, URTICARIA (Kind of like a welt), RASH (Rash on parts of her body on her back) and VACCINATION SITE ERYTHEMA (red spot at injection site, 3-4 inches in diameter) had not resolved.            This case was linked to MOD-2021-367396, MOD-2021-367552.","['Headache', 'Rash', 'Urticaria', 'Vaccination site erythema']",No temporal information found,No temporal information found,,1,True
+1084316,"""Janseen COVID-19 Vaccine EUA"" - experienced following symptoms for 1 day: diarrhea, stomach pain, chills, brain fog/headache, aches throughout my entire body, could barely walk","['Abdominal pain upper', 'Chills', 'Diarrhoea', 'Feeling abnormal', 'Gait disturbance', 'Headache', 'Pain']",No temporal information found,No temporal information found,,1,True
+1288114,"stabbing chest pains; chest pain; really bloated; blood pressure incresed; cannot eat very well; body aches; fever; This spontaneous case was reported by a consumer (subsequently medically confirmed) and describes the occurrence of ANGINA PECTORIS (stabbing chest pains) in a 44-year-old female patient who received mRNA-1273 (Moderna COVID-19 Vaccine) (batch nos. 023M20A and 006M20A) for COVID-19 vaccination. The occurrence of additional non-serious events is detailed below.     The patient's past medical history included No adverse event (No medical history reported.).   On 02-Mar-2021, the patient received first dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) 1 dosage form. On 30-Mar-2021, received second dose of mRNA-1273 (Moderna COVID-19 Vaccine) (unknown route) dosage was changed to 1 dosage form. On an unknown date, the patient experienced ANGINA PECTORIS (stabbing chest pains) (seriousness criterion hospitalization), CHEST PAIN (chest pain), ABDOMINAL DISTENSION (really bloated), BLOOD PRESSURE INCREASED (blood pressure incresed), DECREASED APPETITE (cannot eat very well), MYALGIA (body aches) and PYREXIA (fever). The patient was hospitalized from 01-Apr-2021 to 03-Apr-2021 due to ANGINA PECTORIS. At the time of the report, ANGINA PECTORIS (stabbing chest pains), CHEST PAIN (chest pain), ABDOMINAL DISTENSION (really bloated) and DECREASED APPETITE (cannot eat very well) had not resolved and BLOOD PRESSURE INCREASED (blood pressure incresed), MYALGIA (body aches) and PYREXIA (fever) outcome was unknown. Not Provided    DIAGNOSTIC RESULTS (normal ranges are provided in parenthesis if available): On an unknown date, Blood pressure measurement: high (High) high.         No concomitant medications were reported. The reporter states that the patient was given metoprolol in the hospital which was discontinued by her primary care physician,lorazepam by one physician who suggested that she may be having anxiety and was prescribed omeprazole by a gastroenterologist. Action taken with mRNA-1273 in response to the event was not applicable.  This case concerns a 72-year-old male with a serious unexpected event of herpes zoster. Event onset 8 days after first dose mRNA-1273. Event resolved with dexpanthenol and chlorhexidine. Based on current available information and temporal association between the use of the product and the start date of the event, a causal relationship cannot be excluded.; Sender's Comments: This case concerns a 72-year-old male with a serious unexpected event of herpes zoster. Event onset 8 days after first dose mRNA-1273. Event resolved with dexpanthenol and chlorhexidine. Based on current available information and temporal association between the use of the product and the start date of the event, a causal relationship cannot be excluded.","['Abdominal distension', 'Angina pectoris', 'Blood pressure increased', 'Chest pain', 'Decreased appetite', 'Myalgia', 'Pyrexia']","""No temporal information found""",No temporal information found,,1,True
+1211037,"Fever for first 3 days Body/muscle aches for 3-4 days Fatigue that has not gone away Random headache off and on Occasional dizziness/light headedness, has gotten better over time but still occurs Rapid heartbeat at times","['Dizziness', 'Fatigue', 'Headache', 'Heart rate increased', 'Myalgia', 'Pain', 'Pyrexia']","[
+  {
+    ""Pyrexia"": [""Fever for first 3 days""]
+  },
+  {
+    ""Myalgia"": [""Body/muscle aches for 3-4 days""],
+    ""Fatigue"": [""Fatigue that has not gone away""],
+    ""Headache"": [""Random headache off and on""],
+    ""Dizziness"": [""Occasional dizziness/light headedness, has gotten better over time but still occurs""],
+    ""Heart rate increased"": [""Rapid heartbeat at times""],
+    ""Pain"": [""none""]
+  }
+]","[
+  {
+    ""Pyrexia"": [
+      ""Fever for first 3 days""
+    ]
+  },
+  {
+    ""Myalgia"": [
+      ""Body/muscle aches for 3-4 days""
+    ],
+    ""Fatigue"": [
+      ""Fatigue that has not gone away""
+    ],
+    ""Headache"": [
+      ""Random headache off and on""
+    ],
+    ""Dizziness"": [
+      ""Occasional dizziness/light headedness, has gotten better over time but still occurs""
+    ],
+    ""Heart rate increased"": [
+      ""Rapid heartbeat at times""
+    ]
+  },
+  {
+    ""Pain"": [
+      ""none""
+    ]
+  }
+]",No temporal information found,0,True
+1012710,"Swelling, 2 x 2 x .5 inches, extreme redness, itching at vaccination site beginning 3 hours after injection.  Arm soreness, which resolved after 4 days.  Swelling, etc. resolved after 6 days.  On day 8, redness and swelling 2.5 x 3 x .25 inches returned with itching.  Has not resolved.","['Erythema', 'Pain in extremity', 'Pruritus', 'Vaccination site swelling']",No temporal information found,No temporal information found,,1,True
+1792428,"Severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace; Severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace; Severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace; Severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace; Severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace; This is a spontaneous report from a contactable consumer (patient). A 58-year-old female patient received bnt162b2 (PFIZER-BIONTECH COVID-19 mRNA VACCINE, formulation: Solution for injection, Lot number was not reported), via an unspecified route of administration, administered in arm right on 27Mar2021 08:00 as dose 1, single for COVID-19 immunization (at the age of 58-year-old). Medical history included ongoing asthma, ongoing blood pressure increased and codeine-based medications from and unknown date to unknown date. The patient was not pregnant at the time of vaccination and was healthy before vaccination. The patient did not take any other vaccine in four weeks. The patient did not had COVID prior vaccination and not tested for COVID post vaccination. Patient took other medications in two weeks which includes medication for asthma. On 27Mar2021 16:00, the patient experienced severe and persistent dry cough, fever, chills, body aches, arm pain at site of injection, lasting over 3 days resulting in an ability to function at workplace. Seriousness of the events was reported as non serious. The patient did not received any treatment for the adverse events. The outcome of the events was not recovered.  No follow-up attempts are needed. Information on lot/batch number cannot be obtained.","['Chills', 'Cough', 'Pain', 'Pyrexia', 'Vaccination site pain']",No temporal information found,No temporal information found,,1,True
+1272576,"Fever, chills, headache, body aches, sore arm. Took ibuprofen. Symptoms lasted about 12 hours","['Chills', 'Headache', 'Pain', 'Pain in extremity', 'Pyrexia']",No temporal information found,No temporal information found,,1,True
+1199645,"Woke up at 4AM on the day after receiving the second dose of the Moderna vaccine with chills, intense muscle aches, intense headache, constipation, dizziness, brief nausea. Was unable to get myself out of bed until around 11AM after taking a nap. Used naproxen to bring the symptoms down to a manageable level, but despite taking 440 mg total (220 around 11am, 220 around 8pm), I was mostly bedridden throughout the day. I had very little energy, and moving too much caused dizziness. All symptoms lasted from 4AM on the day after the second dose until waking up the day after that.","['Asthenia', 'Chills', 'Constipation', 'Dizziness', 'Headache', 'Myalgia', 'Nausea']","""No temporal information found""",No temporal information found,,1,True
